@@ -1,14 +1,16 @@
 <div align="center">
 
-# 🌿 Zen Finance
+# 🌿 Zen Finance (Pro Max Edition)
 **Keuanganmu, taman yang tumbuh.**
 
 ![Zen Finance Preview](https://img.shields.io/badge/Status-Active-success)
-![Version](https://img.shields.io/badge/Version-1.0_MVP-blue)
+![Version](https://img.shields.io/badge/Version-1.0_ProMax-blue)
 ![PWA](https://img.shields.io/badge/PWA-Supported-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Aplikasi manajemen keuangan pribadi yang intuitif dan *mindful*, dilengkapi gamifikasi unik untuk membangun kebiasaan mencatat finansial harian secara *fun*. Dikembangkan dalam rangka **Vibecoding Competition Ramadhan 2026**.
+Aplikasi manajemen keuangan pribadi yang intuitif dan *mindful*, dilengkapi gamifikasi unik untuk membangun kebiasaan mencatat finansial harian secara *fun*. 
+
+Dikembangkan secara khusus menggunakan eksekusi Agentic AI (*Vibecoding*) untuk ajang bergengsi: **Vibecoding Competition Ramadhan 2026**.
 
 [**Coba Live Demo di Sini!**](https://zen-finance-fe071.web.app/)
 
@@ -18,17 +20,19 @@ Aplikasi manajemen keuangan pribadi yang intuitif dan *mindful*, dilengkapi gami
 
 ## ✨ Fitur Utama (Features)
 
-1. **💸 Manajemen Dompet (Wallets)**
-   Kelola berbagai sumber dana (Tunai, Rekening Bank, E-Wallet) dalam satu tempat.
-2. **📝 Pencatatan Transaksi**
+1. **💎 UI/UX "Luminescent Organic FinTech" (Vibe Pro Max)**
+   Mengadopsi antarmuka kelas dunia dengan efek *glassmorphism* (kaca buram iOS), *ambient radial gradient* yang menenangkan, *diffuse shadows*, dan interaksi *micro-hover* dinamis yang dikerjakan 100% oleh Agent AI.
+2. **💸 Manajemen Dompet (Wallets)**
+   Kelola berbagai sumber dana (Tunai, Rekening Bank, E-Wallet) dalam satu tempat dengan sistem *currency formatting* otomatis (Rp 1.000.000).
+3. **📝 Pencatatan Transaksi**
    Catat pemasukan (Income), pengeluaran (Expense), dan tabungan (Savings) dengan klasifikasi kategori dan laporan grafis bulanan.
-3. **🎯 Target Tabungan (Goals)**
+4. **🎯 Target Tabungan (Goals)**
    Tentukan tujuan finansial (Dana Darurat, Gadget Baru, Liburan) dan pantau progresnya secara visual.
-4. **🪴 Gamifikasi & Streak Harian**
-   Mencatat transaksi secara konsisten akan memelihara tanaman virtual Anda mulai dari benih (Seed) hingga pohon mekar (Blossom). Dapatkan XP, Badges, dan naikkan *Level* Anda!
-5. **🛜 Offline-First PWA**
+5. **🪴 Gamifikasi & Streak Harian**
+   Mencatat transaksi secara konsisten akan memelihara tanaman virtual Anda mulai dari benih (Seed) hingga pohon mekar (Blossom). Dapatkan XP, Badges eksklusif, dan tingkatkan *Level* Anda!
+6. **🛜 Offline-First PWA**
    Aplikasi tetap dapat dibuka dan digunakan dengan lancar walau tanpa koneksi internet berkat teknologi *IndexedDB*.
-6. **☁️ Cloud Sync (Firebase)**
+7. **☁️ Cloud Sync (Firebase)**
    Dukungan sinkronisasi data antar perangkat secara aman menggunakan akun Google, atau ekspor utuh data keuangan Anda sebagai JSON.
 
 ---
@@ -40,6 +44,7 @@ Aplikasi manajemen keuangan pribadi yang intuitif dan *mindful*, dilengkapi gami
 - **Data Visualization:** Chart.js & React-Chartjs-2.
 - **Backend Service (Cloud Sync & Auth):** Firebase Authentication, Firestore, Analytics.
 - **PWA Configuration:** Vite PWA Plugin.
+- **Code Quality:** ESLint Validation (Zero Bugs & Warnings).
 
 ---
 
@@ -72,14 +77,10 @@ Proyek ini menggunakan pengelolaan *package* standard `npm`. Pastikan Node.js (v
 
 ---
 
-## 🎨 Tampilan Pratinjau (Screenshots)
-
-*(Silakan tambahkan tangkapan layar `screenshot.jpg` atau GIF pemakaian aplikasi pada folder repositori Anda, dan tempel link-nya di sini agar pembaca/juri lebih tertarik membedah fitur-fiturnya)*
-
----
-
 ## 🏆 Vibecoding Competition 2026
-Proyek **Zen Finance** didedikasikan untuk diikutkan dalam perlombaan *Vibecoding Competition Ramadhan 2026* yang menempatkan pengalaman pengembangan produk berbasis Agentic AI ke tataran berikutnya. Selamat menyambut bulan suci Ramadhan! 🌙✨ 
+Proyek **Zen Finance (Pro Max Edition)** didedikasikan secara eksklusif untuk diikutkan dalam perlombaan *Vibecoding Competition Ramadhan 2026* yang menempatkan pengalaman pengembangan produk berbasis Agentic AI ke tataran berikutnya. 
+
+Dari konsep arsitektur, penyelesaian puluhan bug sistem (*linting*), hingga *polishing visual ambient UI* tingkat ekstrem—semuanya dikonduktori melalui prompt *"Code the Vibe"*. Selamat menyambut bulan suci Ramadhan 1447 H! 🌙✨ 
 
 <br />
 

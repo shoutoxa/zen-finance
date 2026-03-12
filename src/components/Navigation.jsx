@@ -62,7 +62,9 @@ export function BottomNav() {
             to={to}
             className={({ isActive }) => `bottom-nav-item ${isActive ? 'active' : ''}`}
           >
-            <Icon size={22} />
+            <div className="icon-wrapper">
+              <Icon size={22} />
+            </div>
             <span>{label}</span>
           </NavLink>
         ))}
