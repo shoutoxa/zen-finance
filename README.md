@@ -18,7 +18,7 @@ Dikembangkan secara khusus menggunakan eksekusi Agentic AI (*Vibecoding*) untuk 
 
 ---
 
-## ✨ Fitur Utama (Features)
+## Fitur Utama (Features)
 
 1. **UI/UX "Luminescent Organic FinTech" (Vibe Pro Max)**
    Mengadopsi antarmuka kelas dunia dengan efek *glassmorphism* (kaca buram iOS), *ambient radial gradient* yang menenangkan, *diffuse shadows*, dan interaksi *micro-hover* dinamis yang dikerjakan 100% oleh Agent AI.
@@ -80,7 +80,7 @@ Proyek ini menggunakan pengelolaan *package* standard `npm`. Pastikan Node.js (v
 ## Vibecoding Competition 2026
 Proyek **Zen Finance** didedikasikan secara eksklusif untuk diikutkan dalam perlombaan *Vibecoding Competition Ramadhan 2026* yang menempatkan pengalaman pengembangan produk berbasis Agentic AI ke tataran berikutnya. 
 
-Dari konsep arsitektur, penyelesaian puluhan bug sistem (*linting*), hingga *polishing visual ambient UI* tingkat ekstrem—semuanya dikonduktori melalui prompt *"Code the Vibe"*. Selamat menyambut bulan suci Ramadhan 1447 H! 🌙✨ 
+Dari konsep arsitektur, penyelesaian puluhan bug sistem (*linting*), hingga *polishing visual ambient UI* tingkat ekstrem—semuanya dikonduktori melalui prompt *"Code the Vibe"*. Selamat menyambut bulan suci Ramadhan 1447 H!  
 
 <br />
 
