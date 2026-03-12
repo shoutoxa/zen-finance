@@ -12,13 +12,13 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // Replace these with your actual Firebase project config
 const firebaseConfig = {
-  apiKey: "AIzaSyCGni4Tus_J6R3mrWP-UKmyYhQO-gMOTVs",
-  authDomain: "zen-finance-fe071.firebaseapp.com",
-  projectId: "zen-finance-fe071",
-  storageBucket: "zen-finance-fe071.firebasestorage.app",
-  messagingSenderId: "166408538142",
-  appId: "1:166408538142:web:17f2820c2e22f3c2f4060f",
-  measurementId: "G-YLFHEDF5X6",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
 };
 
 // Initialize Firebase

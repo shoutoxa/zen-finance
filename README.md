@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌿 Zen Finance 
+# 🌿 Zen Finance
+
 **Keuanganmu, taman yang tumbuh.**
 
 ![Zen Finance Preview](https://img.shields.io/badge/Status-Active-success)
@@ -8,9 +9,9 @@
 ![PWA](https://img.shields.io/badge/PWA-Supported-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Aplikasi manajemen keuangan pribadi yang intuitif dan *mindful*, dilengkapi gamifikasi unik untuk membangun kebiasaan mencatat finansial harian secara *fun*. 
+Aplikasi manajemen keuangan pribadi yang intuitif dan _mindful_, dilengkapi gamifikasi unik untuk membangun kebiasaan mencatat finansial harian secara _fun_.
 
-Dikembangkan secara khusus menggunakan eksekusi Agentic AI (*Vibecoding*) untuk ajang bergengsi: **Vibecoding Competition Ramadhan 2026**.
+Dikembangkan secara khusus menggunakan eksekusi Agentic AI (_Vibecoding_) untuk ajang bergengsi: **Vibecoding Competition Ramadhan 2026**.
 
 [**Coba Live Demo di Sini!**](https://zen-finance-fe071.web.app/)
 
@@ -50,30 +51,34 @@ Dikembangkan secara khusus menggunakan eksekusi Agentic AI (*Vibecoding*) untuk 
 
 ## Cara Menjalankan Berkas Lokal (Local Run)
 
-Proyek ini menggunakan pengelolaan *package* standard `npm`. Pastikan Node.js (versi terbaru/LTS) sudah terpasang di komputer Anda.
+Proyek ini menggunakan pengelolaan _package_ standard `npm`. Pastikan Node.js (versi terbaru/LTS) sudah terpasang di komputer Anda.
 
 1. **Clone repository ini**
+
    ```bash
-   git clone https://github.com/username-anda/zen-finance.git
+   git clone https://github.com/shoutoxa/zen-finance.git
    cd zen-finance
    ```
 
 2. **Install semua dependensi**
+
    ```bash
    npm install
    ```
 
 3. **Jalankan aplikasi di Mode Pengembangan (Development)**
+
    ```bash
    npm run dev
    ```
+
    Aplikasi dapat diakses via browser localhost, e.g. `http://localhost:5173`.
 
 4. **Kompilasi ke versi Produksi (Build)**
    ```bash
    npm run build
    ```
-   *File build hasil transpile Vite akan berada di dalam folder `/dist`.*
+   _File build hasil transpile Vite akan berada di dalam folder `/dist`._
 
 ---
 
